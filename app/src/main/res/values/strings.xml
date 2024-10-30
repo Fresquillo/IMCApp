@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="recalcular">RE-CALCULAR</string>"
+    <string name="resultado">Tu Resultado</string>
+    <string name="pinferior">Peso inferior al normal</string>
+    <string name="pinferiordesc">Estás por debajo de lo óptimo para tu peso y altura</string>
+    <string name="normal">Peso normal</string>"
+    <string name="normaldesc">Estás en un peso normal</string>"
+    <string name="psuperior">Peso superior al normal</string>"
+    <string name="psuperiordesc">Estás por encima de lo óptimo para tu peso y altura</string>
+    <string name="obesidad">Obesidad</string>
+    <string name="obesidaddesc">Estás en obesidad</string>
+</resources>
